@@ -2,4 +2,5 @@
 .project
 target
 .settings
-/file-service.iml
+/vesta-service.iml
+/*.iml
